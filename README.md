@@ -1,6 +1,6 @@
 ## Hi, I'm Suaad 👋
 
-💻 Full Stack Developer (Laravel + React)  
+💻 Full Stack Developer  
 🚀 Building scalable systems & automation solutions  
 
 ### 🔥 Skills
