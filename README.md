@@ -1,16 +1,21 @@
-## Hi there 👋
+## Hi, I'm Suaad 👋
 
-<!--
-**suad-alwajeeh/suad-alwajeeh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full Stack Developer (Laravel + React)  
+🚀 Building scalable systems & automation solutions  
 
-Here are some ideas to get you started:
+### 🔥 Skills
+- Laravel
+- React
+- TypeScript
+- API Integration
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 📌 Projects
+- Employee Management System
+- Booking System
+- E-learning Platform
+-General Informational Websites
+
+### 📫 Contact
+- Email: sd.alwajeeh@gmail.com
+- Email: sd1.alwajeeh1@gmail.com
+-LinkedIn: https://www.linkedin.com/in/suad-alwajeeh-6b76571a6
